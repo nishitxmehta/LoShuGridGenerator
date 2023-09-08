@@ -2,7 +2,7 @@
  
 ## Overview
 
-The <b>Lo Shu Grid Generator</b> is a Java application built using Core Java and Java Swing. It simplifies the process of generating a "Lo Shu Grid" based on a person's name and date of birth. This grid is a 3x3 matrix containing a unique sequence of digits from 1 to 9, which can be used by numerologists and enthusiasts to make predictions and gain insights into an individual's life.
+The **Lo Shu Grid Generator** is a Java application built using Core Java and Java Swing. It simplifies the process of generating a "Lo Shu Grid" based on a person's name and date of birth. This grid is a 3x3 matrix containing a unique sequence of digits from 1 to 9, which can be used by numerologists and enthusiasts to make predictions and gain insights into an individual's life.
 
 ## How It Works
 
@@ -21,9 +21,12 @@ The <b>Lo Shu Grid Generator</b> is a Java application built using Core Java and
 
 ## Getting Started
 
-1.	Clone this repository to your local machine: <i>git clone https://github.com/nishitxmehta/LoShuGridGenerator.git</i>  
-2.	Open the project in your preferred Java IDE (e.g., VS Code, Eclipse, IntelliJ IDEA).
-3.	Run the <b>'LoShuGridGenerator.java'</b> file to launch the application.
+1.	Clone this repository to your local machine:
+```markdown
+git clone https://github.com/nishitxmehta/LoShuGridGenerator.git
+```  
+3.	Open the project in your preferred Java IDE (e.g., VS Code, Eclipse, IntelliJ IDEA).
+4.	Run the `LoShuGridGenerator.java` file to launch the application.
 
 ## Technologies Used
 
@@ -32,7 +35,7 @@ The <b>Lo Shu Grid Generator</b> is a Java application built using Core Java and
 
 ## Contributors
 
-[Nishit Mehta](https://www.linkedin.com/in/nishit-mehta-41b85815b/)
+[Nishit Mehta](https://www.linkedin.com/in/nishitmehta-/)
 
 ## License
 
