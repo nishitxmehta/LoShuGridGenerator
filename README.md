@@ -15,9 +15,9 @@ The **Lo Shu Grid Generator** is a Java application built using Core Java and Ja
 
 ## Key Features
 
-1.  User-friendly Java Swing GUI for effortless input and output.
-2.  Generates a Lo Shu Grid with a unique number sequence for each input.
-3.  A valuable tool for numerologists, astrologers, and anyone intrigued by numerology.
+-  User-friendly Java Swing GUI for effortless input and output.
+-  Generates a Lo Shu Grid with a unique number sequence for each input.
+-  A valuable tool for numerologists, astrologers, and anyone intrigued by numerology.
 
 ## Getting Started
 
