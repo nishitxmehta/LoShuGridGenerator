@@ -8,7 +8,7 @@ The **Lo Shu Grid Generator** is a Java application built using Core Java and Ja
 
 1.	Launch the application to open an intuitive graphical user interface (GUI).
 2.	Enter the person's name and date of birth into the provided input fields.
-3.	Click the "Calculate" button.
+3.	Click the `Calculate` button.
 4.	The program generates a 3x3 grid with a distinct sequence of numbers based on the input.
 5.	Numerologists and individuals interested in numerology can analyze this grid to make predictions and interpretations quickly, saving time on manual calculations.
 6.	Use the "Reset" button to clear the input fields and start a new prediction.
