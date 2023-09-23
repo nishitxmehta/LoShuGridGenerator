@@ -21,12 +21,12 @@ The **Lo Shu Grid Generator** is a Java application built using Core Java and Ja
 
 ## Getting Started
 
-1.	Clone this repository to your local machine:
+-	Clone this repository to your local machine:
 ```markdown
 git clone https://github.com/nishitxmehta/LoShuGridGenerator.git
 ```  
-3.	Open the project in your preferred Java IDE (e.g., VS Code, Eclipse, IntelliJ IDEA).
-4.	Run the `LoShuGridGenerator.java` file to launch the application.
+-	Open the project in your preferred Java IDE (e.g., VS Code, Eclipse, IntelliJ IDEA).
+-	Run the `LoShuGridGenerator.java` file to launch the application.
 
 ## Technologies Used
 
