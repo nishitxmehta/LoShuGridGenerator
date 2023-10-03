@@ -2,7 +2,7 @@
  
 ## Overview
 
-The **Lo Shu Grid Generator** is a Java application built using Core Java and Java Swing. It simplifies the process of generating a "Lo Shu Grid" based on a person's name and date of birth. This grid is a 3x3 matrix containing a unique sequence of digits from 1 to 9, which can be used by numerologists and enthusiasts to make predictions and gain insights into an individual's life.
+The **Lo Shu Grid Generator** is a Java application built using Core Java and Java Swing. It simplifies the process of generating a "Lo Shu Grid" based on a person's name and date of birth. This grid is a `3x3 matrix` containing a unique sequence of digits from 1 to 9, which can be used by numerologists and enthusiasts to make predictions and gain insights into an individual's life.
 
 ## How It Works
 
